@@ -1,0 +1,2 @@
+# bdpl-core
+development framework
